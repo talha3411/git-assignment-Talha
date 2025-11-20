@@ -1,0 +1,8 @@
+Hobbies:
+- Coding
+- Reading
+- Playing cricket
+
+Future Goals:
+- Become a software engineer
+- Learn advanced programming
